@@ -10,7 +10,7 @@
 <h3> <p align="center"> Desenvolvedor Full Stack | Java | Angular </p> </h3>
 
 
-👩‍💻 Atualmente, estou no Bootcamp Santander 2023 – Fullstack Java + Angular e estudando Introdução à Programação na EBAC.
+👩‍💻 Formada em Produção Multimídia com pós-graduação em Projeto e Desenvolvimento de Jogos Digitais, e atualmente estou no Bootcamp Santander 2023 – Fullstack Java + Angular e estudando Introdução à Programação na EBAC.
 
 🎨 Tenho ideias empolgantes para projetos pessoais e estou trilhando meu caminho para transformá-las em realidade.
 
