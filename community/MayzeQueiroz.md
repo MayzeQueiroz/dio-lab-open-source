@@ -18,7 +18,7 @@
 
 🤝 Acredito que o trabalho em equipe amplia horizontes.
 
-🎯 Meus objetivos a curto prazo incluem ingressar no curso de ADS e continuar aprofundando meus conhecimentos em full stack, buscando oportunidades para trabalhar na área. A longo prazo, tenho a visão de construir uma carreira voltada para o desenvolvimento de jogos, uma paixão que me inspira.
+🎯 Meus objetivos a curto prazo incluem ingressar no curso de ADS e continuar aprofundando meus conhecimentos em Full Stack, buscando oportunidades para trabalhar na área. A longo prazo, tenho a visão de construir uma carreira voltada para o desenvolvimento de jogos, uma paixão que me inspira.
 
 
 
